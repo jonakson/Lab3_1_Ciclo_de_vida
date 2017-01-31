@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3 - Ciclo de vida</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="ciclo">Ciclo de vida</string>
+    <string name="uno">1. Al iniciar la actividad se lanzan los métodos onCreate, onStart y onResume.</string>
+    <string name="doss">2. Al pulsar el botón Home se lanzan los métodos onPause y onStop.</string>
+    <string name="tres">3. Al relanzar la app se lanzan los métodos onCreate, onStart y onResume.</string>
+    <string name="cuatro">4. Al pulsar el botón Atrás se lanzan los métodos onPause, onStop y onDestroy.</string>
+    <string name="cinco">5. Al girar la pantalla se lanzan los  métodos onPause, onStop, onDestroy, onCreate, onStar y onResume. Además, si no se le asigna un ID al EditText, lo que tiene escrito se pierde.</string>
+    <string name="seis">6. Al pulsar el botón Finalizar se lanzan los métodos onPause, onStop y onDestroy.</string>
+    <string name="siete">texto</string>
+</resources>
